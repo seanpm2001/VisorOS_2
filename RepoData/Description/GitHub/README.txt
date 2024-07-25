@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🍏️👓️2️⃣️💾️ The official source repository/separate repository for the archival and development of VisorOS 2.x, an open source remake of Apple's VisionOS (versions 2.x) Written in C, Assembly, Swift, and Objective-C. Part of the WacOS operating system project. 
